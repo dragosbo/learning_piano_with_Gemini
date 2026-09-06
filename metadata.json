@@ -1,0 +1,6 @@
+{
+  "name": "Nuvole Bianche Piano Sheet & Fingering",
+  "description": "Interactive piano sheet music with note-by-note fingering recommendations, real-time keyboard visualizer, and practice playback for Ludovico Einaudi's Nuvole Bianche.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
